@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cinephile</title>
+    <link>https://restinsleep.github.io/</link>
+    <description>Recent content on Cinephile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 17:17:44 +0100</lastBuildDate><atom:link href="https://restinsleep.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>American noir </title>
+      <link>https://restinsleep.github.io/pages/stronka/</link>
+      <pubDate>Sun, 03 Mar 2024 17:17:44 +0100</pubDate>
+      
+      <guid>https://restinsleep.github.io/pages/stronka/</guid>
+      <description>American noir pictures 1. Double Indemnity (1944) Director: Billy Wilder Double Indemnity is a classic film noir masterpiece, known for its gripping storyline, unforgettable characters, and innovative techniques. Directed by the legendary Billy Wilder and released in 1944, this crime thriller has stood the test of time and continues to captivate audiences with its dark and suspenseful narrative.
+2. Laura (1944) Director: Otto Preminger Laura is a 1944 American film noir produced and directed by Otto Preminger.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://restinsleep.github.io/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://restinsleep.github.io/about_me/</guid>
+      <description>My name is Inigo Montoya. You killed my father. Prepare to die.</description>
+    </item>
+    
+  </channel>
+</rss>
