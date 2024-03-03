@@ -1,4 +1,4 @@
-baseURL: https://restinsleep.github.io/
+baseURL: "https://restinsleep.github.io/"
 languageCode: en-us
 title: Cinephile
 theme: ananke
