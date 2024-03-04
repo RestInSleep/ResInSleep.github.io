@@ -1,6 +1,7 @@
 ---
 title: "About me"
 url: "/about_me/"
+draft: false
 featured_image: 'images/inigo2.png'
 omit_header_text: true
 menu: 
